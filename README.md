@@ -1,3 +1,3 @@
 # hello-world
-M first repository 
-Hi, my name is Jonathan a programmer that loves data science and animes.
+My first repository 
+Hi, my name is Jonathan a web developer that loves critical thinking and animes.
